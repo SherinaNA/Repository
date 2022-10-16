@@ -1,0 +1,47 @@
+	body
+	{
+	  background-image: url("moose1.jpg");
+	  background-size: cover;
+	}
+	.button1
+	{
+	  background-color: #cccfff;
+	  border: none;
+	  color: black;
+	  border: 2px solid #000000;
+	  padding: 15px 32px;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  font-size: 16px;
+	  margin: 4px 2px;
+	  cursor: pointer;
+	}
+	.button1:hover {background-color: #d3d3d3;}
+	.button1:active
+	{
+	  background-color: #cccfff;
+	  box-shadow: 0 5px #666;
+	  transform: translateY(4px);
+	}
+	.button2
+	{
+	  background-color: #ffc0cb;
+	  border: none;
+	  color: black;
+	  border: 2px solid #000000;
+	  padding: 15px 32px;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  font-size: 16px;
+	  margin: 4px 2px;
+	  cursor: pointer;
+	}
+	.button2:hover {background-color: #d3d3d3;}
+	.button2:active
+	{
+	  background-color: #ffc0cb;
+	  box-shadow: 0 5px #666;
+	  transform: translateY(4px);
+	}
