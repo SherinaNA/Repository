@@ -45,3 +45,24 @@
 	  box-shadow: 0 5px #666;
 	  transform: translateY(4px);
 	}
+	.button3
+	{
+	  background-color: #ffdfd3;
+	  border: none;
+	  color: black;
+	  border: 2px solid #000000;
+	  padding: 3px 15px;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  font-size: 16px;
+	  margin: 2px 1px;
+	  cursor: pointer;
+	}
+	.button3:hover {background-color: #d3d3d3;}
+	.button3:active
+	{
+	  background-color: #ffc0cb;
+	  box-shadow: 0 5px #666;
+	  transform: translateY(4px);
+	}
